@@ -1,0 +1,5 @@
+Fecha: 2024/10/12 15:30:18
+Acción: INSERT
+Tabla: cliente
+Consulta SQL: INSERT INTO cliente(nit, dpi, primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, direccion, tel_casa, tel_movil, salario, bonificacion) VALUES ('null', 'null', 'null', 'null', 'null', 'null', 'null', 'null', 'null', 'null', 'null');
+-------------------------
